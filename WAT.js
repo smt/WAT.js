@@ -2,7 +2,7 @@
 
 // (c) 2013
 
-// Initial setup. Using Underscore as a template. Thanks, @ashkenas.
+// Initial setup. Using Underscore as a template. Thanks, @jashkenas.
 // -----------
 (function() {
     var root = this;
