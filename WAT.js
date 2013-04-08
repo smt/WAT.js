@@ -27,7 +27,7 @@
 
     WAT.VERSION = '0.0.1';
 
-    WAT.greet = function() {
+    WAT.greet = function greet() {
         return 'WAT';
     };
 
